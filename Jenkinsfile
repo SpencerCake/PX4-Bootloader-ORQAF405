@@ -28,6 +28,7 @@ pipeline {
                      "modalai_fc_v1_bl",
                      "modalai_voxl2_io_bl",
                      "omnibusf4sd_bl",
+                     "orqaf405_bl",
                      "pix32v5_bl",
                      "px4aerocore_bl",
                      "px4discovery_bl",
